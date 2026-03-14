@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>探窗</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>http://example.com/icon.png</icon>
+  <id>http://example.com/</id>
+  <link href="http://example.com/" rel="alternate"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 探窗</rights>
+  <subtitle>一步一句是相思</subtitle>
+  <title>他乡遇故知</title>
+  <updated>2026-03-14T05:59:17.929Z</updated>
+  <entry>
+    <author>
+      <name>探窗</name>
+    </author>
+    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
+    <category term="blog" scheme="http://example.com/categories/hexo/blog/"/>
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="blog" scheme="http://example.com/tags/blog/"/>
+    <id>http://example.com/2026/03/14/hello-world/</id>
+    <link href="http://example.com/2026/03/14/hello-world/"/>
+    <published>2026-03-13T16:48:06.901Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-03-14T05:59:17.929Z</updated>
+  </entry>
+</feed>
